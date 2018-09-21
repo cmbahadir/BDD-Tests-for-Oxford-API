@@ -1,2 +1,5 @@
 BDD Test exercises over Oxford API
-Based on PyTest and behave
+
+Requirements; 
+  
+  PyTest and behave
